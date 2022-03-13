@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.o
+*.out
+*.so
+*.dylib
+*.swp
+*.wkt
+*.vscode
+*~
